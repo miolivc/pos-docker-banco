@@ -1,4 +1,4 @@
-# Exemplo de Aplicação Web com Banco de Dados com docker
+# Exemplo de Aplicação Web e Banco de Dados executado em containers Docker
 
 ## Criando o arquivo `Dockerfile`
 ```
